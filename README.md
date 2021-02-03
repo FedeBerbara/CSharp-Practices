@@ -1,0 +1,2 @@
+## This repository will contain files and folders of my practices and annotations on the C# language
+### I will add that day I learned such a topic with practice. And in time I will add simple projects
